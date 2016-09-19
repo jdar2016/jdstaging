@@ -1,0 +1,6 @@
+Temp
+*.apk
+*.log
+Library/ShaderCache
+Library/metadata
+Library/ScriptAssemblies
