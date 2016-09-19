@@ -1,6 +1,7 @@
 Temp
 *.apk
 *.log
+*.meta
 Library/ShaderCache
 Library/metadata
 Library/ScriptAssemblies
